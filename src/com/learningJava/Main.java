@@ -13,5 +13,6 @@ public class Main {
         System.out.println("Integere Max Value = " + myMacInValue);
         System.out.println("Basted Max Value = " + (myMacInValue +1));
         System.out.println("Basted Min Value = " + (myMinInValue - 1));
+        //change
     }
 }
